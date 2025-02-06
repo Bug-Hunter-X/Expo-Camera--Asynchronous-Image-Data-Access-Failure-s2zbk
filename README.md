@@ -1,0 +1,1 @@
+This repository demonstrates a bug and its solution related to accessing image data from the Expo Camera API.  The bug involves issues with accessing image data asynchronously after capturing an image. The solution utilizes promises and async/await to handle the asynchronous nature of image loading, ensuring the image data is available before processing.
